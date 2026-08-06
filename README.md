@@ -9,6 +9,5 @@ I am an aspiring Data Analyst passionate about uncovering stories hidden within 
 
 ## 📊 Featured Projects
 
-
 ## 📫 Let's Connect!
 - **Email:** lucius.ugorji@aol.com
