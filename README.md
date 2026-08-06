@@ -1,4 +1,4 @@
-# Hi there, I'm [Lucius Ugorji] 👋
+# Hi there, I'm Lucius Ugorji
 
 I am an aspiring Data Analyst passionate about uncovering stories hidden within complex datasets. I specialize in translating raw data into clear, actionable business strategies.
 
